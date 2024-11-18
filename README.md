@@ -1,13 +1,14 @@
 ##############  Hi, Im Dragos  ##############
 
                                                                                          
-#   \\{I’m interested in software development, cybersecurity, AI, PCBs, SCBs, and innovative technology in general.}}//
+#  I’m interested in software development, cybersecurity, AI, PCBs, SCBs, and innovative technology in general
 
   
   #__I’m currently learning__ 
-
-  
-##############  PYTHON  ##############
+       \               /
+        \             /
+         \           /
+ #########  PYTHON  ##########
 
   #- 💞️ I’m looking to collaborate on Python projects, especialy when it comes to machine learning, infosec reserach, cryptography, and cybersecurity in general.
 
